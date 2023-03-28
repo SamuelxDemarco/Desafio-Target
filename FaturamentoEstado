@@ -1,2 +1,2 @@
 SELECT estado, valor / SUM(valor) OVER() * 100 AS percentual
-FROM faturamento;
+FROM planilha1;
