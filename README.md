@@ -1,7 +1,7 @@
 # Desafio-Target
 ### 1- Verifica se o número digitado pelo usuário pertence ou não a sequência Fibonacci em linguagem Java.
     1. Baixe o arquivo DescobrirFibonacci.java
-    2. Execute o arquivo no seu compilador
+    2. Abra e execute o arquivo no seu compilador
 
 ### 2- Calcula o menor e o maior faturamento diário e quantos dias o faturamento diário foi maior que à média mensal de uma distribuidora em linguagem Python.
     1. Baixe o arquivo FaturamentoDiario.ipynb e o arquivo faturamento.json
